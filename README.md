@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aman06012003
+- 👋 Hi, I’m Aman Kapoor
 - 👀 I’m interested in ... Coding and software development
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me in: akalasklo@gmail.com
 
 <!---
