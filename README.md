@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Kapoor
 - 👀 I’m interested in ... Coding and software development,Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning ... Data Structures and Algorithm
+- 🌱 I’m currently learning ... Data Structures and Algorithm and Machine Learning
 - 📫 How to reach me ...email me in: akalasklo@gmail.com ,kapooraman2468@gmail.com
 
 <!---
